@@ -18,3 +18,4 @@ Les contributions sont les bienvenues ! Pour toute suggestion ou amélioration, 
 VERSIONS :
 
 SORTIE DU JEU 18/08/24 v0.0.1 :
+  Version initiale avec tirage aléatoire de titres
