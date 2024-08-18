@@ -13,3 +13,8 @@ Téléchargez le repository.
 Exécutez le script Python pour effectuer un tirage aléatoire.
 Contribution
 Les contributions sont les bienvenues ! Pour toute suggestion ou amélioration, n'hésitez pas à soumettre une demande de tirage (pull request).
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VERSIONS :
+
+SORTIE DU JEU 18/08/24 v0.0.1 :
