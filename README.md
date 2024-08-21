@@ -19,3 +19,7 @@ VERSIONS :
 
 SORTIE DU JEU 18/08/24 v0.0.1 :
   Version initiale avec tirage aléatoire de titres
+
+21/08/24 v0.0.2 :
+  Amélioration du code pour le rendre plus rapide
+
