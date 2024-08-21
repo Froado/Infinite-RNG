@@ -18,18 +18,19 @@ def get_title():
 
     # Choisir un titre au hasard
     selected_title = random.choice(titles)
-
+    result = ""
     # Trouver les chances associées au titre sélectionné
     for title, chance in titles_with_chances:
         if title == selected_title:
             print(f"Vous avez obtenu : {selected_title} ({chance}/100 chances)")
+            # result = f"Vous avez obtenu : {selected_title} ({chance}/100 chances)"
             break
 
-    return selected_title
+    #return result
 
 
 # Test du système
-for _ in range(10):
+for i in range(10):
     get_title()
 print()
 print("Merci d'avoir joué ! 😊, Si vous avez des idées pour améliorer le RNG, n'hésitez pas à me demander !")
