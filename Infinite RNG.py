@@ -18,7 +18,7 @@ def get_title():
 
     # Choisir un titre au hasard
     selected_title = random.choice(titles)
-    result = ""
+    #result = ""
     # Trouver les chances associées au titre sélectionné
     for title, chance in titles_with_chances:
         if title == selected_title:
