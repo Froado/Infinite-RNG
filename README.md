@@ -23,3 +23,5 @@ SORTIE DU JEU 18/08/24 v0.0.1 :
 21/08/24 v0.0.2 :
   Amélioration du code pour le rendre plus rapide
 
+22/08/24 v0.0.2.1 :
+  Petit oubli fixé : la variable optionnel result n'etait pas commenté
