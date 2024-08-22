@@ -17,11 +17,11 @@ Les contributions sont les bienvenues ! Pour toute suggestion ou amélioration, 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 VERSIONS :
 
-SORTIE DU JEU 18/08/24 Seed 0.1 :
-  Version initiale avec tirage aléatoire de titres
+SORTIE DU JEU - 18/08/24
+Seed 0.1 : Version initiale avec tirage aléatoire de titres.
 
-21/08/24 Seed 0.1.1 :
-  Amélioration du code pour le rendre plus rapide
+21/08/24
+Seed 0.1.1 : Optimisation du code pour un tirage plus rapide.
 
-22/08/24 Seed 0.1.2 :
-  Petit oubli fixé : la variable optionnel result n'etait pas commenté
+22/08/24
+Seed 0.1.2 : Correction d'un oubli : la variable optionnelle result n'était pas commentée.
