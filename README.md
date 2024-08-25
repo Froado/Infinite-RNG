@@ -25,3 +25,6 @@ Seed 0.1.1 : Optimisation du code pour un tirage plus rapide.
 
 22/08/24
 Seed 0.1.2 : Correction d'un oubli : la variable optionnelle result n'était pas commentée.
+
+25/08/24
+Seed 0.1.3 : Ajout du marchant vendeur de dés.
